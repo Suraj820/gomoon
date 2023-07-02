@@ -2,6 +2,9 @@
 
 This is my 1st  Project with Flutter
 
+<img src ="screenshot.png"  height="500"/></br>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

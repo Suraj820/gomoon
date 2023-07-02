@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
               ),
               Align(
                 alignment: Alignment.centerRight,
-                child:_astroImageWidget() ,
+                child: _astroImageWidget(),
               )
             ],
           ),
